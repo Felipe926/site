@@ -1,0 +1,32 @@
+body{
+  background: #eee;
+}
+.navbar{
+  background: rgb(239, 28, 66);   
+	
+}
+span{
+  font-size:15px;
+}
+a{
+  text-decoration:none; 
+  color: #0062cc;
+  border-bottom:2px solid #0062cc;
+}
+.espaco_card{}
+.box{
+  padding:60px 0px;
+}
+
+.box-part{
+  background:#FFF;
+  border-radius:2px;
+  padding:60px 10px;
+  margin:30px 0px;
+}
+.text{
+  margin:20px 0px;
+}
+.rodape{
+  background: gray !important;
+}

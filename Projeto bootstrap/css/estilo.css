@@ -1,0 +1,52 @@
+body{
+	font-family: helvetica, sans-serif;
+	background: #eee;
+}
+.social ul{
+	list-style: none;
+	margin-top: 7%; 
+}
+.social li{
+	float: left;
+	margin: 10px;
+}
+.navbar{
+	background: rgb(239, 28, 66);		
+	
+}
+.carrousel_slide1{
+	
+}
+.texto_slide{
+	position: absolute;
+	top: 84%;
+	color: white;
+	left: 10%;
+}
+
+.botao_modal{
+	position: absolute;
+	top: 90%;
+	left:45%;
+}
+.conteudo_arccordion{
+	margin-right: 
+}
+.cadastro{
+	font-family: 'Righteous', cursive;
+	text-align: center;
+}
+.form_barra{
+	margin-left: 33% !important;
+	font-family: 'Righteous', cursive;
+}
+.form_btn{
+	font-family: 'Righteous', cursive;
+	margin-left: 33% !important;
+}
+.card_titanfall{
+	background-image: url(img/titanfall2.jpg); 
+}
+.footer{
+	background: linear-gradient(to top, #f44256 60%, #260f0f 100%) 
+}
